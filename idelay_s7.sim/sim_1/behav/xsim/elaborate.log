@@ -1,0 +1,23 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto b96a6ce7e0d942cca62cf24e11f49fc3 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_idelay_behav xil_defaultlib.tb_idelay -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package unisim.vcomponents
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling package ieee.std_logic_arith
+Compiling architecture idelayctrl_v of entity unisim.IDELAYCTRL [\IDELAYCTRL(1,7)\]
+Compiling architecture idelaye2_v of entity unisim.IDELAYE2 [\IDELAYE2(delay_src="DATAIN",ide...]
+Compiling architecture behavioral of entity xil_defaultlib.idelay [idelay_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_idelay
+Built simulation snapshot tb_idelay_behav

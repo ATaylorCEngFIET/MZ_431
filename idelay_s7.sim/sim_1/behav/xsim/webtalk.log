@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1_AR76668 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Feb  9 12:40:03 2022
+# Process ID: 25576
+# Current directory: C:/hdl_projects/idelay_s7/idelay_s7.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/hdl_projects/idelay_s7/idelay_s7.sim/sim_1/behav/xsim/xsim.dir/tb_idelay_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/hdl_projects/idelay_s7/idelay_s7.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/hdl_projects/idelay_s7/idelay_s7.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/hdl_projects/idelay_s7/idelay_s7.sim/sim_1/behav/xsim/xsim.dir/tb_idelay_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Wed Feb  9 12:40:03 2022...

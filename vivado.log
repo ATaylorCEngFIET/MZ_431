@@ -1,0 +1,34 @@
+#-----------------------------------------------------------
+# Vivado v2021.1_AR76668 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Feb 16 10:06:43 2022
+# Process ID: 44776
+# Current directory: C:/Users/aptay/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent46836
+# Log file: C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/aptay/AppData/Roaming/Xilinx/Vivado\vivado.jou
+#-----------------------------------------------------------
+Sourcing tcl script 'C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/Vivado_init.tcl'
+167 Beta devices matching pattern found, 54 enabled.
+start_gui
+open_project C:/hdl_projects/idelay_s7/idelay_s7.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/hdl_projects/idelay_s7/idelay_s7.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2021.1/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:07 . Memory (MB): peak = 1209.863 ; gain = 0.000
+update_compile_order -fileset sources_1
+archive_project C:/hdl_projects/idelay_s7.xpr.zip -temp_dir C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-44776-DESKTOP-L3OMJC1 -force -include_local_ip_cache
+INFO: [Coretcl 2-137] starting archive...
+INFO: [Coretcl 2-1499] Saving project copy to temporary location 'C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-44776-DESKTOP-L3OMJC1' for archiving project
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/hdl_projects/idelay_s7/idelay_s7.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [Coretcl 2-1211] Creating project copy for archival...
+INFO: [ProjectBase 1-495] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience any problem with archiving the project, please consider setting environment variable $TEMP to a shorter path.
+Current project path is 'C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-44776-DESKTOP-L3OMJC1/PrjAr/_X_'.
+INFO: [Coretcl 2-1213] Including run results for 'synth_1'
+INFO: [Coretcl 2-1213] Including run results for 'impl_1'

@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Note: no delay
+Time: 210100 ps  Iteration: 0  Process: /tb_idelay/uut_stim  File: C:/hdl_projects/idelay_s7/idelay_s7.srcs/sim_1/new/tb_idelay.vhd
+Note: Same Delay
+Time: 267500 ps  Iteration: 0  Process: /tb_idelay/uut_stim  File: C:/hdl_projects/idelay_s7/idelay_s7.srcs/sim_1/new/tb_idelay.vhd
+Note: Increment Delay on channel 2
+Time: 387500 ps  Iteration: 0  Process: /tb_idelay/uut_stim  File: C:/hdl_projects/idelay_s7/idelay_s7.srcs/sim_1/new/tb_idelay.vhd
+Note: Decrement Delay on channel 2
+Time: 507500 ps  Iteration: 0  Process: /tb_idelay/uut_stim  File: C:/hdl_projects/idelay_s7/idelay_s7.srcs/sim_1/new/tb_idelay.vhd
+Note: Large Delay
+Time: 627500 ps  Iteration: 0  Process: /tb_idelay/uut_stim  File: C:/hdl_projects/idelay_s7/idelay_s7.srcs/sim_1/new/tb_idelay.vhd
+Failure: simulation complete
+Time: 747500 ps  Iteration: 0  Process: /tb_idelay/uut_stim  File: C:/hdl_projects/idelay_s7/idelay_s7.srcs/sim_1/new/tb_idelay.vhd
+$finish called at time : 747500 ps : File "C:/hdl_projects/idelay_s7/idelay_s7.srcs/sim_1/new/tb_idelay.vhd" Line 209

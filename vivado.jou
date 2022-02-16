@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.1_AR76668 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Feb 16 10:06:43 2022
+# Process ID: 44776
+# Current directory: C:/Users/aptay/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent46836
+# Log file: C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/aptay/AppData/Roaming/Xilinx/Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/hdl_projects/idelay_s7/idelay_s7.xpr
+update_compile_order -fileset sources_1
+archive_project C:/hdl_projects/idelay_s7.xpr.zip -temp_dir C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-44776-DESKTOP-L3OMJC1 -force -include_local_ip_cache
